@@ -1,4 +1,4 @@
-Order ID,Product Name,Discount,Sales,Profit,Quantity,Category,Sub-Category,Country,Order Date,Ship Date,Ship Mode
+Order ID,Product Name,Discount,Sales,Profit,Quantity,Category,Sub-Category,Country,order_date,Ship Date,Ship Mode
 BN-2011-7407039,"Enermax Note Cards, Premium",0.5,$45.00,-$26.00,3,Office Supplies,Paper,Sweden,2011-01-01,2011-01-05,Economy Plus
 AZ-2011-9050313,"Dania Corner Shelving, Traditional",0,$854.00,$290.00,7,Furniture,Bookcases,United Kingdom,2011-01-03,2011-01-07,Economy
 AZ-2011-6674300,"Binney & Smith Sketch Pad, Easy-Erase",0,$140.00,$21.00,3,Office Supplies,Art,France,2011-01-04,2011-01-08,Economy
