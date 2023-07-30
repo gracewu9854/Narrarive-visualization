@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Unraveling Profits: Exploring AmazingMart's Path to Enhanced Margins</title>
